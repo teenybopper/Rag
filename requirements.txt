@@ -1,0 +1,9 @@
+langchain
+openai
+huggingface_hub
+together 
+accelerate
+bitsandbytes
+transformers
+langchain_community
+pypdf
